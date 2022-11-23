@@ -1,0 +1,231 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.header{
+    height: 49px;
+    width: 100%;
+    background: white;
+    border-style: solid;
+    border-color: white white #E24307;
+    border-width: 1px;
+    position: sticky;
+
+}
+
+.header-content{
+    display: flex;
+    margin-top: 15px;
+}
+.logo{
+    margin: 0px 0px 0px 10px;
+
+}
+.logout{
+    margin: 0px 0px 0px 10px;
+}
+.collapse{
+    margin: 0px 0px 0px 10px;
+}
+.ibanking{
+    margin: 0px 0px 0px 20px;
+}
+.acct{
+    margin: 0px 0px 0px 910px;
+}
+.notification{
+    margin: 0px 0px 0px 10px;
+}
+
+.dashboard{
+    background-color: #323643;
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    overflow: scroll;
+}
+.dashboard1{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.search-bar{
+    margin-top: 15px;
+    width:230px; 
+    height:50px; 
+    background: white;
+    border-radius: 3px;
+}
+
+.dashboard-menu{
+display: flex;
+text-decoration: none;
+color: white;
+margin-top: 25px;
+margin-left: 20px;
+} 
+
+
+.dashboard-heading{
+    margin: 0px 0px 0px 250px;
+    background-color: #F8F9FA;
+    width: 1117px;
+    height: 100%;
+    position: fixed;
+    overflow: scroll visible;
+    
+}
+
+.hoverr div:hover{
+    background-color: #E24307;
+    height: 35px;
+    width: 170px;
+    color: white;
+    margin-left: 0px;
+    border-radius: 3px;
+    
+
+}
+.acct_sum{
+    display:flex
+}
+.accounts{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: aliceblue;
+}
+.acct_details{
+    display: flex;
+}
+.bookbalance{
+    display: flex;
+}
+.transactions-heading{
+    height: 33px;
+    width: 700px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #B3b3b3;
+    margin-left: 10px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+.transaction-body{
+    height: 250px;
+    width: 700px;
+    background-color:white;
+    margin-top: 8px;
+}
+.transaction-body-text{
+    margin-top:30px;
+    color: #B3b3b3;
+}
+.transaction-heading-flex{
+    display: flex;
+}
+
+.middle-body{
+    display: flex;
+}
+.irequire{
+    width: 330px;
+    height: 750px;
+    background-color: #323643;
+    margin-left: 20px;
+    border-radius: 3px;
+    position: relative;
+}
+.footer{
+    background-color: white;
+    width: 20px;
+    height: 100px;
+}
+.irequire-column1{
+    display: flex;
+    margin-top: 30px;
+}
+.irequire-column2{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.irequire-column3{
+    display: flex;
+    margin-top: 30px;
+    
+}
+
+.cash{
+    background-color: white;
+    color: #323643;
+    width: 90px;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 60px;
+}
+.statement{
+    background-color: white;
+    color: #323643;
+    width: 90px;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 40px;
+}
+.token{
+    background-color: white;
+    color: #323643;
+    width: 90px;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 60px;
+
+}
+.card{
+    background-color: white;
+    color: #323643;
+    width: 90px;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 40px;
+
+}
+.cheque{
+    background-color: white;
+    color: #323643;
+    width: 90px;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 60px;
+}
+    .import{
+        background-color: white;
+        color: #323643;
+        width: 120px;
+        height: 120px;
+        border-radius: 3px;
+        margin-left: 10px;
+    }
+    .nibss{
+        background-color: white;
+        color: #323643;
+        width: 120px;
+        height: 120px;
+        border-radius: 3px;
+        margin-left: 30px;
+    }
+    .eform{
+        background-color: white;
+        color: #323643;
+        width: 120px;
+        height: 120px;
+        border-radius: 3px;
+        margin-left: 30px;
+    }
+    .paymnet4trade{
+        display: flex;
+        margin-top: 30px;
+    }
